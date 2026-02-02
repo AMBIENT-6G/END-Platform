@@ -74,7 +74,7 @@ The computational core (MCU or FPGA).
 - Optional FPGA variants for exploratory research
 
 Repository:
-- 🔗 `[MSPM0C1104SDDF](https://github.com/AMBIENT-6G/END-Platform-bbmcu-1)`
+- 🔗 [MSPM0C1104SDDF](https://github.com/AMBIENT-6G/END-Platform-bbmcu-1)
 
 ---
 
@@ -140,7 +140,7 @@ Planned harvesting sources:
 Repositories:
 - 🔗 `TODO: harvester-solar-indoor`
 - 🔗 `TODO: harvester-solar-outdoor`
-- 🔗 `[RF Energy harvester: P2110B](https://github.com/AMBIENT-6G/END-Platform-ehrf-1)`
+- 🔗 [RF Energy harvester: P2110B](https://github.com/AMBIENT-6G/END-Platform-ehrf-1)
 - 🔗 `TODO: harvester-capacitive`
 - 🔗 `TODO: harvester-vibration`
 
@@ -175,8 +175,8 @@ Supported and planned approaches:
 
 Repositories:
 - 🔗 `TODO: rf-lora-transceiver`
-- 🔗 `[Fixed load impedance backscatter](https://github.com/AMBIENT-6G/END-Platform-rfvt-1)`
-- 🔗 `[IQ based backscatter](https://github.com/AMBIENT-6G/END-Platform-rfiq-1)`
+- 🔗 [Fixed load impedance backscatter](https://github.com/AMBIENT-6G/END-Platform-rfvt-1)
+- 🔗 [IQ based backscatter](https://github.com/AMBIENT-6G/END-Platform-rfiq-1)
 - 🔗 `TODO: rf-backscatter-digital`
 
 ---
