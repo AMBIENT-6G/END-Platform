@@ -7,6 +7,11 @@ This platform is developed to enable **rapid prototyping, fair comparison, and r
 The core idea is simple:  
 **split an IoT node into clearly defined, stackable subsystems**, each with its own lifecycle, power domain, and research focus.
 
+[![Backscatter Platform – Architecture Overview](backscatter-platform.pdf)](backscatter-platform.pdf)
+
+*Figure: Modular backscatter platform overview (PDF).*
+
+
 ---
 
 ## Why this platform?
