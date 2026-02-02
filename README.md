@@ -5,7 +5,7 @@ A modular, research-oriented hardware and software platform for **energy-neutral
 This platform is developed to enable **rapid prototyping, fair comparison, and reproducible research** across sensing, energy harvesting, power management, storage, and RF backscatter communication.
 
 The core idea is simple:  
-**split an IoT node into clearly defined, stackable subsystems**, each with its own lifecycle, power domain, and research focus.
+**split an IoT node into clearly defined, subsystems**, each with its own lifecycle, power domain, and research focus.
 
 [![Backscatter Platform Overview](docs/backscatter-platform.png)](docs/backscatter-platform.pdf)
 
@@ -37,11 +37,11 @@ without redesigning the full node.
 
 ## Architecture Overview
 
-The platform consists of a **main board** and multiple **stackable daughter boards** connected via standardized 12-pin interfaces inspired by the Digilent PMOD specification.
+The platform consists of a **main board** and multiple **daughter boards** connected via standardized 12-pin interfaces inspired by the Digilent PMOD specification.
 
 Each daughter board represents **one function only**.
 
-Typical stacks:
+Typical combinations:
 - sensing + harvesting + storage
 - harvesting + power management + RF backscatter
 - MCU + RF + debug
@@ -74,7 +74,7 @@ The computational core (MCU or FPGA).
 - Optional FPGA variants for exploratory research
 
 Repository:
-- 🔗 `TODO: link to main-board repository`
+- 🔗 `[MSPM0C1104SDDF](https://github.com/AMBIENT-6G/END-Platform-bbmcu-1)`
 
 ---
 
@@ -140,7 +140,7 @@ Planned harvesting sources:
 Repositories:
 - 🔗 `TODO: harvester-solar-indoor`
 - 🔗 `TODO: harvester-solar-outdoor`
-- 🔗 `TODO: harvester-rf`
+- 🔗 `[RF Energy harvester: P2110B](https://github.com/AMBIENT-6G/END-Platform-ehrf-1)`
 - 🔗 `TODO: harvester-capacitive`
 - 🔗 `TODO: harvester-vibration`
 
@@ -175,8 +175,8 @@ Supported and planned approaches:
 
 Repositories:
 - 🔗 `TODO: rf-lora-transceiver`
-- 🔗 `TODO: rf-backscatter-impedance`
-- 🔗 `TODO: rf-backscatter-iq`
+- 🔗 `[Fixed load impedance backscatter](https://github.com/AMBIENT-6G/END-Platform-rfvt-1)`
+- 🔗 `[IQ based backscatter](https://github.com/AMBIENT-6G/END-Platform-rfiq-1)`
 - 🔗 `TODO: rf-backscatter-digital`
 
 ---
