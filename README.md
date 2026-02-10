@@ -197,6 +197,15 @@ Repositories:
 
 ---
 
+## Templates
+
+To get started with designing your own hardware two KiCAD templates are provided. One to create a main board containing the microcontroller and one to create daughterboards for sensing, communication, etc...
+These templates can be installed in the default KiCAD templates folder enabling the `Create project from Template` functionality in KiCAD.
+
+Repositories:
+- [Main board](https://github.com/AMBIENT-6G/END-Platform-KiCAD-Template-Main)
+- [Daughter board](https://github.com/AMBIENT-6G/END-Platform-KiCAD-Template-Daughterboard)
+
 ## Design Goals and Constraints
 
 - Energy-neutral by design
