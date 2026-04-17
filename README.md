@@ -75,6 +75,7 @@ The computational core (MCU or FPGA).
 
 Repository:
 - 🔗 [MSPM0C1104SDDF](https://github.com/AMBIENT-6G/END-Platform-bbmcu-1)
+- 🔗 [STM32U031F8](https://github.com/AMBIENT-6G/END-Platform-6gend-mb1)
 
 ---
 
@@ -89,7 +90,7 @@ Planned boards include:
 - Microphone / acoustic sensing
 
 Repositories:
-- 🔗 `TODO: sensor-imu`
+- 🔗 [ICM-40609-D](https://github.com/AMBIENT-6G/END-Platform-6gend-sns-db-1)
 - 🔗 `TODO: sensor-temp-humidity`
 - 🔗 `TODO: sensor-light`
 - 🔗 `TODO: sensor-microphone`
@@ -174,10 +175,10 @@ Supported and planned approaches:
 - Fully digital backscatter (RF switch)
 
 Repositories:
-- 🔗 `TODO: rf-lora-transceiver`
+- 🔗 [SX1261 active radio](https://github.com/AMBIENT-6G/END-Platform-6gend-rf-db-1)
 - 🔗 [Fixed load impedance backscatter](https://github.com/AMBIENT-6G/END-Platform-rfvt-1)
-- 🔗 [IQ based backscatter](https://github.com/AMBIENT-6G/END-Platform-rfiq-1)
-- 🔗 `TODO: rf-backscatter-digital`
+- 🔗 [IQ based backscatter](https://github.com/AMBIENT-6G/END-Platform-6gend-rf-db-3)
+- 🔗 [Fixed-load single switch](https://github.com/AMBIENT-6G/END-Platform-6gend-rf-db-2)
 
 ---
 
