@@ -139,8 +139,7 @@ Planned harvesting sources:
 - Vibration harvesting
 
 Repositories:
-- 🔗 `TODO: harvester-solar-indoor`
-- 🔗 `TODO: harvester-solar-outdoor`
+- 🔗 [Dual source harvester: AEM13921](https://github.com/AMBIENT-6G/END-Platform-6gend-hvst-db-1)`
 - 🔗 [RF Energy harvester: P2110B](https://github.com/AMBIENT-6G/END-Platform-ehrf-1)
 - 🔗 `TODO: harvester-capacitive`
 - 🔗 `TODO: harvester-vibration`
